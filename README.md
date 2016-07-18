@@ -1,3 +1,3 @@
 # first
 It is Ashok's first repository
-this is Master file
+and It is a branch code... Need to raise pull request to get permission to checkin the code
